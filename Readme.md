@@ -9,21 +9,30 @@ We will use an existing airbnb dataset which is available on Kaggle. For this pr
 only considering one city.Dataset is distributed in three files listed below:
 
 -Listings, including full descriptions and average review score
+
 -Reviews, including unique id for each reviewer and detailed comments
+
 -Calendar, including listing id and the price and availability for that day
+
 
 
 File Details:
 
 Requirements.txt - to be used with anaconda/pip for installing all the required dependecy files
+
 airbnb-berlin-cost-prediction.ipynb : Project Source code
+
 
 Coding Guidelines
 -Just one, implement everything as modules.
+
 -Add as many comments as possible
+
 -Use the Jupyter's Markdown feature to write details about a module,
  this would help us in the end to quickly generate the documentation
  for project in one single click.
 
+
+Dataset : https://bit.ly/2wJn6pf
 
 Team Members : Tejal, Elliot, Jarren and Arun
